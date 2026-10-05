@@ -11,7 +11,6 @@ using namespace std;
 int main() {
     system("chcp 65001 > nul");
 
-    // Оголошуємо координати вершин
     double x1, y1;
     double x2, y2;
     double x3, y3;
