@@ -1,12 +1,10 @@
-#include <iostream>
-
-using namespace std;
-
 /* Завдання (Варіант 7):
    Дано дійсні числа x, a (x, a належать R) та натуральне число n (n належить N).
    Знайти значення виразу:
    ((...(((x + a)^2 + a)^2 + ... + a)^2 + a)^2 + a
    де операція піднесення до квадрата повторюється n разів. */
+#include <iostream>
+using namespace std;
 
 int main() {
     system("chcp 65001 > nul");
